@@ -4,7 +4,6 @@
 Cite:
 takefuji (2022) scorev for scoring COVID-19 policies with vaccine rates [Source Code]. https://doi.org/10.24433/CO.4373206.v1
 
-This is under review.
 
 scorev is a PyPI tool for scoring COVID-19 policies in a filename 'oecd.csv' with vaccine rates 
 such as at least 1 dose, fully vaccinated, and booster given.
@@ -30,7 +29,7 @@ $ pip install scorev
 # How to run scorev
 $ scorerev
 
-<img src='https://github.com/ytakefuji/scorev/raw/main/result.png' width=800 height=1300 >
+<img src='https://github.com/y-takefuji/scorev/raw/main/result.png' width=800 height=1300 >
 
 # How to modify country names
 Modify oecd.csv file for adding and deleting countries.
